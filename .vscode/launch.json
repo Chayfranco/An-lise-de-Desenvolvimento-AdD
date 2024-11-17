@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "lista",
+            "request": "launch",
+            "mainClass": "lista",
+            "projectName": "AdD_4dbb91d5"
+        },
+        {
+            "type": "java",
+            "name": "GerenciarLista",
+            "request": "launch",
+            "mainClass": "GerenciarLista",
+            "projectName": "AdD_4dbb91d5"
+        },
+        {
             "name": "Depurador do Python: Arquivo Atual",
             "type": "debugpy",
             "request": "launch",
